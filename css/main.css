@@ -192,7 +192,8 @@ main {
   .boxes div {
     font-size: 2rem;
     border: 1.5px #fff solid;
-    margin-bottom: 0.3rem;
+    padding: 1.5rem 2.5rem;
+    margin-bottom: 3rem;
     transition: all 0.5s ease-out; }
     .boxes div:hover {
       padding: 0.5rem 1.5rem;
